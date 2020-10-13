@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: files added">
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: links set to active">
+      <change afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/w3c.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ipaddress.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
     </list>
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602562529384</updated>
-      <workItem from="1602562530475" duration="19500000" />
+      <workItem from="1602562530475" duration="22065000" />
     </task>
     <task id="LOCAL-00001" summary="task: setting up home page">
       <created>1602571168586</created>
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602605496141</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task: links set to active">
+      <created>1602606684748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602606684748</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +108,8 @@
     <MESSAGE value="task: css file created" />
     <MESSAGE value="task: index page set up" />
     <MESSAGE value="task: files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: files added" />
+    <MESSAGE value="task: links set to active" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: links set to active" />
   </component>
   <component name="WindowStateProjectService">
     <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
@@ -125,10 +136,10 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="515" y="137" key="Github.UntrackedFilesDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563710990" />
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602605499980">
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602606689908">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602605499980" />
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602606689908" />
     <state x="519" y="278" key="run.anything.popup" timestamp="1602577108549">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
