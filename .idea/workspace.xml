@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="" />
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1io8LflgTDUjm2lsSwxU0KHaYJa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +32,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602562529384</updated>
-      <workItem from="1602562530475" duration="999000" />
+      <workItem from="1602562530475" duration="8066000" />
     </task>
     <servers />
   </component>
@@ -41,10 +55,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="50" y="74" key="#Deployment" timestamp="1602563529934">
+    <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="50" y="74" key="#Deployment/0.0.1470.864@0.0.1470.864" timestamp="1602563529934" />
+    <state x="50" y="74" key="#Deployment/0.0.1470.864@0.0.1470.864" timestamp="1602563789037" />
     <state x="34" y="61" key="#SSH_Configurations" timestamp="1602562676075">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
@@ -53,5 +67,17 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="205" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1470.864@0.0.1470.864" timestamp="1602562560699" />
+    <state x="884" y="190" key="FileChooserDialogImpl" timestamp="1602570853300">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="884" y="190" key="FileChooserDialogImpl/0.0.1470.864@0.0.1470.864" timestamp="1602570853300" />
+    <state x="587" y="330" key="Github.ShareDialog" timestamp="1602563692656">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="587" y="330" key="Github.ShareDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563692656" />
+    <state x="515" y="137" key="Github.UntrackedFilesDialog" timestamp="1602563710990">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="515" y="137" key="Github.UntrackedFilesDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563710990" />
   </component>
 </project>
