@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1io8LflgTDUjm2lsSwxU0KHaYJa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="" />
+      <created>1602562529384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602562529384</updated>
+      <workItem from="1602562530475" duration="999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="50" y="74" key="#Deployment" timestamp="1602563529934">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="50" y="74" key="#Deployment/0.0.1470.864@0.0.1470.864" timestamp="1602563529934" />
+    <state x="34" y="61" key="#SSH_Configurations" timestamp="1602562676075">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="34" y="61" key="#SSH_Configurations/0.0.1470.864@0.0.1470.864" timestamp="1602562676075" />
+    <state x="205" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602562560699">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="205" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1470.864@0.0.1470.864" timestamp="1602562560699" />
+  </component>
+</project>
