@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: css file created">
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: index page set up">
+      <change afterPath="$PROJECT_DIR$/docs/content/icann.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/content/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
@@ -42,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\content" />
       <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\images" />
     </key>
   </component>
@@ -53,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602562529384</updated>
-      <workItem from="1602562530475" duration="15709000" />
+      <workItem from="1602562530475" duration="18343000" />
     </task>
     <task id="LOCAL-00001" summary="task: setting up home page">
       <created>1602571168586</created>
@@ -69,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602577669200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task: index page set up">
+      <created>1602578817554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602578817554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,7 +89,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task: setting up home page" />
     <MESSAGE value="task: css file created" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: css file created" />
+    <MESSAGE value="task: index page set up" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: index page set up" />
   </component>
   <component name="WindowStateProjectService">
     <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
@@ -105,10 +117,10 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="515" y="137" key="Github.UntrackedFilesDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563710990" />
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602577670886">
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602578819815">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602577670886" />
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602578819815" />
     <state x="519" y="278" key="run.anything.popup" timestamp="1602577108549">
       <screen x="0" y="0" width="1470" height="864" />
     </state>

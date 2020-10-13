@@ -13,3 +13,10 @@ btn:focus, a:focus
     outline: none !important;
     box-shadow: none;
 }
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}
+
+.color-me{
+    color:black;
+}
