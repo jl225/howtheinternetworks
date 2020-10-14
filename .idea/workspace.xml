@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: contents edited">
-      <change afterPath="$PROJECT_DIR$/docs/images/Capture.PNG" afterDir="false" />
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: edited">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-540824157-2048x2048.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ipaddress.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/w3c.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w3c.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +82,7 @@
       <workItem from="1602562530475" duration="37608000" />
       <workItem from="1602687816269" duration="1154000" />
       <workItem from="1602689102178" duration="515000" />
-      <workItem from="1602699255172" duration="3099000" />
+      <workItem from="1602699255172" duration="4533000" />
     </task>
     <task id="LOCAL-00001" summary="task: setting up home page">
       <created>1602571168586</created>
@@ -194,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602689606590</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="task: edited">
+      <created>1602702541016</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602702541016</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +230,8 @@
     <MESSAGE value="task: images added" />
     <MESSAGE value="task: final edit" />
     <MESSAGE value="task: contents edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: contents edited" />
+    <MESSAGE value="task: edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: edited" />
   </component>
   <component name="WindowStateProjectService">
     <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
@@ -255,10 +258,10 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="515" y="137" key="Github.UntrackedFilesDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563710990" />
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602689608976">
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602702543949">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602689608976" />
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602702543949" />
     <state x="519" y="278" key="run.anything.popup" timestamp="1602577108549">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
