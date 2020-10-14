@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: gitignore">
-      <change beforePath="$PROJECT_DIR$/docs/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.MD" afterDir="false" />
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: Readme edited">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1042250100-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-146293540-2048x2048.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602562529384</updated>
-      <workItem from="1602562530475" duration="35780000" />
+      <workItem from="1602562530475" duration="36634000" />
     </task>
     <task id="LOCAL-00001" summary="task: setting up home page">
       <created>1602571168586</created>
@@ -136,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602650927076</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task: Readme edited">
+      <created>1602651322679</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602651322679</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +165,8 @@
     <MESSAGE value="task: pages edited and pictures added" />
     <MESSAGE value="task: README file added" />
     <MESSAGE value="task: gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: gitignore" />
+    <MESSAGE value="task: Readme edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: Readme edited" />
   </component>
   <component name="WindowStateProjectService">
     <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
