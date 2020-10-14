@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: images added">
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: final edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ipaddress.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +54,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks" />
-      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs" />
-      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs" />
       <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\images" />
       <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\content" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\images" />
+      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks" />
+      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602562529384</updated>
       <workItem from="1602562530475" duration="37608000" />
-      <workItem from="1602687816269" duration="1070000" />
+      <workItem from="1602687816269" duration="1154000" />
+      <workItem from="1602689102178" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="task: setting up home page">
       <created>1602571168586</created>
@@ -157,11 +173,30 @@
       <option name="project" value="LOCAL" />
       <updated>1602652306077</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="task: final edit">
+      <created>1602689020202</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602689020203</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task: setting up home page" />
@@ -177,7 +212,8 @@
     <MESSAGE value="task: gitignore" />
     <MESSAGE value="task: Readme edited" />
     <MESSAGE value="task: images added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: images added" />
+    <MESSAGE value="task: final edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: final edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
@@ -204,10 +240,10 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="515" y="137" key="Github.UntrackedFilesDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563710990" />
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602652309358">
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602689023087">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602652309358" />
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602689023087" />
     <state x="519" y="278" key="run.anything.popup" timestamp="1602577108549">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
