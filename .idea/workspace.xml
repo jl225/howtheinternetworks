@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: links set to active">
-      <change afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/w3c.html" afterDir="false" />
+    <list default="true" id="391cb6e7-759f-487d-b72c-105dfcddec35" name="Default Changelist" comment="task: more files added">
+      <change afterPath="$PROJECT_DIR$/docs/images/B612_20200826_140907_627 (1).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ipaddress.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/w3c.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w3c.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +43,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs" />
       <recent name="C:\Users\amber\WebstormProjects\howtheinternetworks\docs\images" />
@@ -60,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602562529384</updated>
-      <workItem from="1602562530475" duration="22065000" />
+      <workItem from="1602562530475" duration="32719000" />
     </task>
     <task id="LOCAL-00001" summary="task: setting up home page">
       <created>1602571168586</created>
@@ -97,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602606684748</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task: more files added">
+      <created>1602615100678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602615100678</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +121,8 @@
     <MESSAGE value="task: index page set up" />
     <MESSAGE value="task: files added" />
     <MESSAGE value="task: links set to active" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: links set to active" />
+    <MESSAGE value="task: more files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: more files added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="50" y="74" key="#Deployment" timestamp="1602563789037">
@@ -136,17 +149,17 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="515" y="137" key="Github.UntrackedFilesDialog/0.0.1470.864@0.0.1470.864" timestamp="1602563710990" />
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602606689908">
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602615105333">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602606689908" />
+    <state x="328" y="165" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1602615105333" />
     <state x="519" y="278" key="run.anything.popup" timestamp="1602577108549">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="519" y="278" key="run.anything.popup/0.0.1470.864@0.0.1470.864" timestamp="1602577108549" />
-    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1602572584885">
+    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1602624165653">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1470.864@0.0.1470.864" timestamp="1602572584885" />
+    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1470.864@0.0.1470.864" timestamp="1602624165653" />
   </component>
 </project>
